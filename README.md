@@ -667,35 +667,7 @@ Worked on real-world software development tasks while collaborating with experie
 
 ---
 
-# 📈 Academic Journey
 
-```text
-2019
-│
-├── Started Diploma in Information Technology
-│
-2022
-│
-├── Completed Diploma (CGPA: 8.08)
-│
-2024
-│
-├── Joined Pillai HOC College of Engineering
-│
-├── Electronics & Computer Science Engineering
-│
-2025
-│
-├── Built Case Connect
-├── Developed Goal Prediction Model
-├── Developed Tender Taker
-│
-2026
-│
-├── Software Development Internship
-├── Current CGPA: 8.16
-└── Preparing for Software Engineering Roles
-```
 
 ---
 
