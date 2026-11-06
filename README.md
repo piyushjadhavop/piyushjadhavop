@@ -126,6 +126,78 @@ A few projects that represent the areas I'm exploring. Open each repository for 
 
 ---
 
+## 🧭 Current Focus
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" valign="top">
+        <h3>⚙️ Backend Engineering</h3>
+        <p>Designing reliable APIs and learning how to structure applications beyond the basics.</p>
+        <sub>REST APIs · Authentication · Database Design</sub>
+      </td>
+      <td width="33%" valign="top">
+        <h3>🤖 Applied Machine Learning</h3>
+        <p>Moving from simple predictions toward better features, evaluation, and useful ML-powered products.</p>
+        <sub>Feature Engineering · Model Evaluation · Deployment</sub>
+      </td>
+      <td width="33%" valign="top">
+        <h3>🧩 Product Thinking</h3>
+        <p>Improving projects around real user needs, clear workflows, and practical outcomes.</p>
+        <sub>System Design · UX · Problem Solving</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🔭 On the Workbench
+
+| Project | Exploring next |
+|---|---|
+| **Medicost AI** | Developing the insurance comparison and recommendation workflow around predicted medical costs. |
+| **Football Goal Prediction** | Exploring richer match-level features and stronger model evaluation beyond basic aggregate inputs. |
+| **Backend projects** | Improving API structure, authentication, database design, and maintainability. |
+
+<sub>These are current learning and development directions—not claims that every planned feature is already implemented.</sub>
+
+---
+
+## 🧠 How I Think as an Engineer
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>01 · Understand</h3>
+        <p>Start with the problem, the people using the product, and the outcome that matters.</p>
+      </td>
+      <td align="center" width="33%">
+        <h3>02 · Engineer</h3>
+        <p>Turn requirements into clean, maintainable solutions with thoughtful architecture.</p>
+      </td>
+      <td align="center" width="33%">
+        <h3>03 · Improve</h3>
+        <p>Test, measure, learn from feedback, and keep refining what has been built.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### My Engineering Principles
+
+- **Clarity over complexity** — prefer solutions that are easy to understand and maintain.
+- **Security by design** — consider authentication, authorization, and data handling early.
+- **Learn by building** — turn new concepts into working projects instead of stopping at theory.
+- **Progress through iteration** — improve software with testing, feedback, and continuous learning.
+
+<div align="center">
+  <img src="https://img.shields.io/badge/BUILD-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LEARN-123B35?style=for-the-badge&logo=bookstack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ITERATE-00A884?style=for-the-badge&logo=rocket&logoColor=white"/>
+</div>
+
+---
+
 ## Experience & Education
 
 | | Details |
