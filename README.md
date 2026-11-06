@@ -202,7 +202,6 @@ A few projects that represent the areas I'm exploring. Open each repository for 
 
 | | Details |
 |---|---|
-| **Software Intern** | **GlobalSpace Technologies** · May 2026 – July 2026 |
 | **B.E. — Electronics & Computer Science** | Pillai HOC College of Engineering · 2024 – Present · CGPA: **8.16 / 10** |
 | **Diploma — Information Technology** | DBATU, Lonere · CGPA: **8.08 / 10** |
 
